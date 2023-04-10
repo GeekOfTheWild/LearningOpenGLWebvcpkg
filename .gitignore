@@ -287,7 +287,7 @@ __pycache__/
 /downloads/
 /installed*/
 /vcpkg_installed*/
-/packages/
+#/packages/ REMOVED
 /scripts/buildsystems/tmp/
 #ignore custom triplets
 /triplets/*
